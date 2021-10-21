@@ -1,6 +1,6 @@
 # Código Cinemática Inversa Final V4
 
-########### Bibliotecas de comandos usadas ##############
+########### Bibliotecas de comandos usadas quack ##############
 
 from pyfirmata import Arduino, SERVO
 import pyfirmata
